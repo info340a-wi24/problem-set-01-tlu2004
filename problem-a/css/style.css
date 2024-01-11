@@ -1,0 +1,38 @@
+body {
+  margin-left: 100px;
+  margin-right: 100px;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  background-color:#2b3690;
+}
+
+#heading {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+p {
+  line-height: 1.5;
+}
+
+h1 {
+  font-size: 100px;
+  margin: 0px;
+}
+
+#chestnut {
+  color: red;
+}
+
+img {
+  max-height: 400px;
+}
+
+a {
+  color: white;
+}
+
+.baka, .baka a {
+  color: pink;
+}
